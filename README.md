@@ -6,6 +6,8 @@ Shorts - Drama App. Luni Case Study
 ![iOS](https://img.shields.io/badge/iOS-17%2B-green?logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-purple?logo=swift&logoColor=white)
 
+<img width="1800" height="928" alt="apptab" src="https://github.com/user-attachments/assets/fa77b84f-f431-4430-bce0-0fba804faa74" />
+
 ## Overview
 
 Shorts is a **mobile drama streaming app** featuring 2 screens. The app delivers **short-form vertical video content** with a modern, immersive viewing experience across a variety of genres.
