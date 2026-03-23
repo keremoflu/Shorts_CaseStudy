@@ -1,4 +1,4 @@
-# Shorts_CaseStudy
+# Shorts - Case Study
 Shorts - Drama App. Luni Case Study
 
 ![Swift](https://img.shields.io/badge/Swift-6.2-orange?logo=swift&logoColor=white)
